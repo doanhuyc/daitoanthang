@@ -1,0 +1,33 @@
+User-Agent: *
+Disallow: /chitietsanpham.php?id=6
+
+Disallow: /chitietsanpham.php?id=7
+Disallow: /tinhchat.php?id=2
+Disallow: /chitietsanpham.php?id=12
+Disallow: /chitietsanpham.php?id=1
+Disallow: /chitietsanpham.php?id=3
+Disallow: /newsdetail.php?id=6
+Disallow: /newsdetail.php?id=18
+Disallow: /productdetail.php?id=10
+
+Disallow: /chitietsanpham.php?id=4
+Disallow: /Hoangmy812002@yahoo.com
+Disallow: /f
+Disallow: /tinhchat.php?id=1
+Disallow: /chitietsanpham.php?id=5
+Disallow: /dtt
+Disallow: /jquery.nivo.slider.pack.js
+Disallow: /pascal.css
+Disallow: /default.css
+Disallow: /nivo-slider.css
+Disallow: /orman.css
+Disallow: /themes/default/default.css
+Disallow: /themes/pascal/pascal.css
+Disallow: /themes/nivo-slider.css
+Disallow: /themes/orman/orman.css
+Disallow: /themes/jquery.nivo.slider.pack.js
+Disallow: /mobile
+Disallow: /m
+Disallow: /newsdetail.php?id=13
+
+Disallow: /productdetail.php?id=4

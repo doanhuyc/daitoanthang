@@ -1,0 +1,76 @@
+
+div.wrap {
+width :1000px;
+margin : 0 auto;
+text-align : left;
+}
+div#sliderWrp {width:1000px; height:365px;}
+div#sliderWrp div.wrap {
+height : 365px;
+
+}
+div#sliderWrp div#slide-holder {
+z-index : 40;
+width : 1000px;
+height : 365px;
+position : absolute;
+}
+div#sliderWrp div#slide-holder div#slide-runner {
+
+width : 1000px;
+height : 365px;
+overflow : hidden;
+position : absolute;  
+}
+div#sliderWrp div#slide-holder img {
+margin : 0;
+display : none;
+position : absolute;
+border-radius:0px 0px 15px 15px;
+}
+div#sliderWrp div#slide-holder div#slide-controls {
+right : 0;
+bottom : -5px;
+height : 46px;
+display : none;
+position : absolute;
+
+}
+div#sliderWrp div#slide-holder div#slide-controls p.text {
+float : left;
+color : #fff;
+display : inline;
+font-size : 10px;
+line-height : 16px;
+/*margin : 15px 0 0 20px;*/
+text-transform : uppercase;
+}
+div#sliderWrp div#slide-holder div#slide-controls p#slide-nav {
+float : left;
+height : 24px;
+display : inline;
+margin : 11px 0 0 15px;
+}
+div#sliderWrp div#slide-holder div#slide-controls p#slide-nav a {
+float : left;
+width : 24px;
+height : 24px;
+display : inline;
+font-size : 11px;
+margin : 0 5px 0 0;
+line-height : 24px;
+font-weight : bold;
+text-align : center;
+text-decoration : none;
+background-position : 0 0;
+background-repeat : no-repeat;
+}
+div#sliderWrp div#slide-holder div#slide-controls p#slide-nav a.on {
+background-position : 0 -24px; color:#fff;
+}
+div#sliderWrp div#slide-holder div#slide-controls p#slide-nav a {
+background-image : url(../images/silde-nav.png); color:#333;
+}
+/*div#nav ul li a {
+background : url(../images/nav.png) no-repeat;
+}*/
